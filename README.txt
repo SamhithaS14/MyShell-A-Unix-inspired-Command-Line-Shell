@@ -1,5 +1,5 @@
-Names:  Krithish Ayyappan        NetIDs: ka759
-        Samhitha Sangaraju               ss4043
+Names:  Krithish Ayyappan       
+        Samhitha Sangaraju              
 
 Code Design and Commands:
         Process Overview:
